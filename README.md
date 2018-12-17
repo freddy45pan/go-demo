@@ -1,2 +1,1 @@
-# golang-practice
-GOLANG 練習
+# go-demo
